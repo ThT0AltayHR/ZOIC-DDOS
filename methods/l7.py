@@ -16,8 +16,7 @@ clear = "\033[0m"
 def banner():
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"""
-telegram {zoic}|{clear} t.me/cybermads {zoic}|{clear} Discord {zoic}|{clear} discord.gg/KDzjfn63
-          {zoic}
+			turkhackteam.org/AltayHR
                      ╦  ╔═╗╦ ╦╔═╗╦═╗ ══╗            
                      ║  ╠═╣╚╦╝║╣ ╠╦╝  ╔╝            
                      ╩═╝╩ ╩ ╩ ╚═╝╩╚═  ╩   {clear}
@@ -66,8 +65,7 @@ def layer7():
             
             os.system('cls' if os.name == 'nt' else 'clear')
             print(f"""
-telegram {zoic}|{clear} t.me/cybermads {zoic}|{clear} Discord {zoic}|{clear} discord.gg/KDzjfn63
-                    {zoic}                    
+			turkhackteam.org/AltayHR
         ╔═╗╔╦╗╔╦╗╔═╗╔═╗╦╔═  ╔═╗╔═╗╔╗╔╔╦╗
         ╠═╣ ║  ║ ╠═╣║  ╠╩╗  ╚═╗║╣ ║║║ ║ 
         ╩ ╩ ╩  ╩ ╩ ╩╚═╝╩ ╩  ╚═╝╚═╝╝╚╝ ╩ 
@@ -114,8 +112,7 @@ telegram {zoic}|{clear} t.me/cybermads {zoic}|{clear} Discord {zoic}|{clear} dis
             th(url, threads, secs)
             os.system('cls' if os.name == 'nt' else 'clear')
             print(f"""
-telegram {zoic}|{clear} t.me/cybermads {zoic}|{clear} Discord {zoic}|{clear} discord.gg/KDzjfn63
-                {zoic}                    
+		turkhackteam.org/AltayHR
         ╔═╗╔╦╗╔╦╗╔═╗╔═╗╦╔═  ╔═╗╔═╗╔╗╔╔╦╗
         ╠═╣ ║  ║ ╠═╣║  ╠╩╗  ╚═╗║╣ ║║║ ║ 
         ╩ ╩ ╩  ╩ ╩ ╩╚═╝╩ ╩  ╚═╝╚═╝╝╚╝ ╩ 

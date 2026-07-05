@@ -20,8 +20,7 @@ payloads = [
 def banner():
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"""
-telegram {zoic}|{clear} t.me/cybermads {zoic}|{clear} Discord {zoic}|{clear} discord.gg/KDzjfn63
-          {zoic}
+			turkhackteam.org/AltayHR
                     ╦  ╔═╗╦ ╦╔═╗╦═╗ ╦ ╦                                                                                                          
                     ║  ╠═╣╚╦╝║╣ ╠╦╝ ╚═╣                                                                                                          
                     ╩═╝╩ ╩ ╩ ╚═╝╩╚═   ╩  {clear}
@@ -72,8 +71,7 @@ def layer4():
             th(ip, port, threads, secs)
             os.system('cls' if os.name == 'nt' else 'clear')
             print(f"""
-telegram {zoic}|{clear} t.me/cybermads {zoic}|{clear} Discord {zoic}|{clear} discord.gg/KDzjfn63
-                    {zoic}                    
+		turkhackteam.org/AltayHR
         ╔═╗╔╦╗╔╦╗╔═╗╔═╗╦╔═  ╔═╗╔═╗╔╗╔╔╦╗
         ╠═╣ ║  ║ ╠═╣║  ╠╩╗  ╚═╗║╣ ║║║ ║ 
         ╩ ╩ ╩  ╩ ╩ ╩╚═╝╩ ╩  ╚═╝╚═╝╝╚╝ ╩ 
@@ -122,8 +120,7 @@ telegram {zoic}|{clear} t.me/cybermads {zoic}|{clear} Discord {zoic}|{clear} dis
 
             os.system('cls' if os.name == 'nt' else 'clear')
             print(f"""
-telegram {zoic}|{clear} t.me/cybermads {zoic}|{clear} Discord {zoic}|{clear} discord.gg/KDzjfn63
-                    {zoic}                    
+		turkhackteam.org/AltayHR
         ╔═╗╔╦╗╔╦╗╔═╗╔═╗╦╔═  ╔═╗╔═╗╔╗╔╔╦╗
         ╠═╣ ║  ║ ╠═╣║  ╠╩╗  ╚═╗║╣ ║║║ ║ 
         ╩ ╩ ╩  ╩ ╩ ╩╚═╝╩ ╩  ╚═╝╚═╝╝╚╝ ╩ 

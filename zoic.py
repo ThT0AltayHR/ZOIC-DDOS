@@ -11,8 +11,7 @@ clear = "\033[0m"
 def banner():
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"""
-telegram {zoic}|{clear} t.me/cybermads {zoic}|{clear} Discord {zoic}|{clear} discord.gg/KDzjfn63
-          {zoic}
+        		turkhackteam.org/AltayHR
                     ╔═╗╔═╗╦╔═╗
                     ╔═╝║ ║║║  
                     ╚═╝╚═╝╩╚═╝ V5{clear}
@@ -31,12 +30,11 @@ def main():
         if select == "help":
             os.system('cls' if os.name == 'nt' else 'clear')
             print(f"""
-telegram {zoic}|{clear} t.me/cybermads {zoic}|{clear} Discord {zoic}|{clear} discord.gg/KDzjfn63
-          {zoic}
+			turkhackteam.org/AltayHR
                     ╦ ╦╔═╗╦  ╔═╗
                     ╠═╣║╣ ║  ╠═╝
                     ╩ ╩╚═╝╩═╝╩ {clear}
-                github.com/cybermads
+                turkhackteam.org
         {zoic}╔═════════════════════════════════╗{clear}
         {zoic}║{clear}  {zoic}-{clear} l4     {zoic}|{clear} Layer4 Attack Menu  {zoic}║{clear}         
         {zoic}║{clear}  {zoic}-{clear} l7     {zoic}|{clear} Layer7 Attack Menu  {zoic}║{clear}
